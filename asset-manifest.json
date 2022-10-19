@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/micro-app-quiz/static/css/main.073c9b0a.css",
-    "main.js": "/micro-app-quiz/static/js/main.503ed086.js",
-    "static/js/787.83ec16b4.chunk.js": "/micro-app-quiz/static/js/787.83ec16b4.chunk.js",
-    "static/media/logo.svg": "/micro-app-quiz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/micro-app-quiz/static/css/main.1c6c4d82.css",
+    "main.js": "/micro-app-quiz/static/js/main.80256904.js",
     "index.html": "/micro-app-quiz/index.html",
-    "main.073c9b0a.css.map": "/micro-app-quiz/static/css/main.073c9b0a.css.map",
-    "main.503ed086.js.map": "/micro-app-quiz/static/js/main.503ed086.js.map",
-    "787.83ec16b4.chunk.js.map": "/micro-app-quiz/static/js/787.83ec16b4.chunk.js.map"
+    "main.1c6c4d82.css.map": "/micro-app-quiz/static/css/main.1c6c4d82.css.map",
+    "main.80256904.js.map": "/micro-app-quiz/static/js/main.80256904.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.503ed086.js"
+    "static/css/main.1c6c4d82.css",
+    "static/js/main.80256904.js"
   ]
 }
